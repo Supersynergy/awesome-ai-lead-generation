@@ -38,12 +38,11 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 - [Crawlee](https://github.com/apify/crawlee) - Web scraping and browser automation library with anti-blocking, proxy rotation, and auto-retry. `TypeScript` `Free`
 - [Stagehand](https://github.com/browserbase/stagehand) - AI browser automation framework. Control browsers with natural language for dynamic lead extraction. `TypeScript` `Free`
 - [Maxun](https://github.com/getmaxun/maxun) - No-code web scraping platform with AI data extraction. Turn any website into structured data. `TypeScript` `Free`
-- [Scrapegraph-AI](https://github.com/VinciGit00/Scrapegraph-ai) - LLM-based scraper using graph logic for complex multi-page extraction. `Python` `Free`
-- [Firecrawl](https://github.com/mendableai/firecrawl) - Turn entire websites into LLM-ready markdown. API-first with batch crawling. `TypeScript` `Freemium`
+- [Scrapegraph-AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - LLM-based scraper using graph logic for complex multi-page extraction. `Python` `Free`
+- [Firecrawl](https://github.com/firecrawl/firecrawl) - Turn entire websites into LLM-ready markdown. API-first with batch crawling. `TypeScript` `Freemium`
 - [Colly](https://github.com/gocolly/colly) - Elegant, fast scraper framework for Go. 0.47s/page, 20MB RAM. Best for bulk HTTP scraping. `Go` `Free`
 - [Browser Use](https://github.com/browser-use/browser-use) - AI agent that controls browsers using natural language. Extract data from any page with prompts. `Python` `Free`
 - [Apify](https://apify.com/) - Cloud platform for web scraping and automation. 1,500+ ready-made scrapers. `SaaS` `Freemium`
-- [Instant Data Scraper](https://github.com/nicola/instant-data-scraper) - Chrome extension that uses AI to detect tabular data on any webpage. `JavaScript` `Free`
 - [Webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs with MCP server integration. `Rust` `Free`
 
 ## Lead Enrichment & Verification
@@ -87,7 +86,7 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 - [Leadspace](https://www.leadspace.com/) - B2B customer data platform with AI scoring across intent, fit, and engagement. `SaaS` `Paid`
 - [scikit-learn](https://scikit-learn.org/) - Open-source ML library. Build custom lead scoring models with classification algorithms. `Python` `Free`
 - [XGBoost](https://github.com/dmlc/xgboost) - Gradient boosting library. State-of-the-art for tabular lead scoring problems. `Python/R/C++` `Free`
-- [LightGBM](https://github.com/microsoft/LightGBM) - Fast gradient boosting by Microsoft. Handles large-scale lead datasets efficiently. `Python/C++` `Free`
+- [LightGBM](https://github.com/lightgbm-org/LightGBM) - Fast gradient boosting by Microsoft. Handles large-scale lead datasets efficiently. `Python/C++` `Free`
 
 ## Intent Data & Buyer Signals
 
@@ -200,7 +199,7 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 - [Erxes](https://github.com/erxes/erxes) - Open-source experience management. CRM, marketing, sales, and support in one platform. `TypeScript`
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement. Live chat + chatbot + omnichannel inbox. `Ruby`
 - [Listmonk](https://github.com/knadh/listmonk) - High-performance self-hosted newsletter and mailing list manager. `Go`
-- [Cal.com](https://github.com/calcom/cal.com) - Open-source Calendly alternative. Embed scheduling links for lead conversion. `TypeScript`
+- [Cal.com](https://github.com/calcom/cal.diy) - Open-source Calendly alternative. Embed scheduling links for lead conversion. `TypeScript`
 - [Formbricks](https://github.com/formbricks/formbricks) - Open-source survey platform. In-app surveys, website forms, lead qualification. `TypeScript`
 - [Dub.co](https://github.com/dubinc/dub) - Open-source link management. Track clicks, conversions, and referral attribution. `TypeScript`
 - [Reacher](https://github.com/reacherhq/check-if-email-exists) - Open-source email verification in Rust. Self-hosted, privacy-first. `Rust`
