@@ -227,12 +227,12 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 
 ### Scraper Performance (M4 Max, 10 pages)
 
-| Tool | Language | Time | Memory | Output Quality |
-|------|----------|------|--------|----------------|
-| Colly | Go | **4.65s** | **20.9 MB** | Raw text + links |
-| Spider | Rust | 5.97s | **11.1 MB** | Structured JSONL |
-| Stagehand | TypeScript | 12.73s | 151 MB | DOM innerText |
-| Crawl4ai | Python | 14.68s | 117 MB | **Clean Markdown** |
+| Tool | Runtime & memory | Output |
+| --- | --- | --- |
+| Colly<br>Go | **4.65s**<br>**20.9 MB** | Raw text + links |
+| Spider<br>Rust | 5.97s<br>**11.1 MB** | Structured JSONL |
+| Stagehand<br>TypeScript | 12.73s<br>151 MB | DOM innerText |
+| Crawl4ai<br>Python | 14.68s<br>117 MB | **Clean Markdown** |
 
 ### Key Research
 
