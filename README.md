@@ -1,10 +1,14 @@
 # Awesome AI Lead Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome AI Lead Generation](assets/cover.png)
+
+**🧭 Explore:** [Contents](#contents) · [Enrichment](#lead-enrichment--verification) · [Sales agents](#ai-sales-agents--outreach) · [Open source](#open-source-tools) · [Research](#benchmarks--research)
+
 > A curated list of AI-powered tools, frameworks, and resources for automated lead generation, prospecting, and sales intelligence.
 
 Lead generation is being transformed by AI. This list covers everything from AI-powered scrapers and enrichment tools to predictive scoring engines and autonomous outreach agents.
 
-**Why this list?** The intersection of AI and lead generation is the fastest-growing segment in sales tech, yet there was no comprehensive awesome list covering it. This fills that gap.
+**How to use:** Choose a category, compare the linked sources, and check current pricing and product details directly with each provider.
 
 ---
 
