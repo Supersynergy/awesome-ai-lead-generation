@@ -8,7 +8,7 @@ Thank you for contributing! This list aims to be the definitive resource for AI-
 
 1. **One tool per PR** for easier review
 2. **Alphabetical order** within each category
-3. **Format**: `[Tool Name](URL) - Brief description. \`Language/Platform\` \`Pricing\``
+3. **Format**: `[Tool Name](../URL) - Brief description. \`Language/Platform\` \`Pricing\``
 4. **Verify** the link works and the tool is actively maintained
 5. **Include** the pricing model: `Free`, `Freemium`, `Paid`, `SaaS`, `API`
 

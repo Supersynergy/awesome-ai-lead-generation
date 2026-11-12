@@ -1,6 +1,6 @@
 # Awesome AI Lead Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Awesome AI Lead Generation](assets/cover.png)
+<img src="assets/cover.png" alt="Awesome AI Lead Generation" width="300" align="right">
 
 **🧭 Explore:** [Contents](#contents) · [Enrichment](#lead-enrichment--verification) · [Sales agents](#ai-sales-agents--outreach) · [Open source](#open-source-tools) · [Research](#benchmarks--research)
 
@@ -274,7 +274,7 @@ Tools are evaluated on:
 
 ## Contributing
 
-Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Please read the [contributing guidelines](.github/CONTRIBUTING.md) first.
 
 - Add tools in alphabetical order within their category
 - Include a brief description, language/platform tag, and pricing model
