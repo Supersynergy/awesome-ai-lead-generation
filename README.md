@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="assets/cover.png" alt="Awesome AI Lead Generation" width="960">
+</p>
+
 # Awesome AI Lead Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="assets/cover.png" alt="Awesome AI Lead Generation" width="300" align="right">
 
 **🧭 Explore:** [Contents](#contents) · [Enrichment](#lead-enrichment--verification) · [Sales agents](#ai-sales-agents--outreach) · [Open source](#open-source-tools) · [Research](#benchmarks--research)
 
