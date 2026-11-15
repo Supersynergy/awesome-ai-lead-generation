@@ -127,6 +127,7 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 - [Hunter.io](https://hunter.io/) - Find professional email addresses. Domain search, email finder, and bulk verification. `API` `Freemium`
 - [Snov.io](https://snov.io/) - Email finder with 7-tier verification. LinkedIn integration and drip campaigns. `SaaS` `Freemium`
 - [Findymail](https://www.findymail.com/) - Email finder with 97%+ accuracy. Specializes in finding verified B2B emails. `SaaS` `Paid`
+- [Founder Email Finder](https://apify.com/intropi/company-contacts-tech-lookup) - Reads company websites for founder and owner names, gives the likely founder email with a confidence label, plus shared inboxes, phones and tech stack. `API` `Paid`
 - [Voila Norbert](https://www.voilanorbert.com/) - Email finder and verification. Find anyone's corporate email with name + domain. `API` `Freemium`
 - [ZeroBounce](https://www.zerobounce.net/) - Email verification, scoring, and deliverability toolkit. 99%+ accuracy. `API` `Freemium`
 - [MillionVerifier](https://www.millionverifier.com/) - Bulk email verification. $0.50 per 1,000 emails. Industry-lowest pricing. `SaaS` `Paid`
