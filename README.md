@@ -59,6 +59,7 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 - [Clay](https://www.clay.com/) - AI-powered data enrichment platform. Waterfall enrichment across 100+ data providers. Finds emails, phones, tech stacks. `SaaS` `Paid`
 - [Clearbit](https://clearbit.com/) - Real-time company and contact enrichment API. Firmographics, technographics, intent. Now part of HubSpot. `API` `Freemium`
 - [Apollo.io](https://www.apollo.io/) - Sales intelligence with 275M+ contacts. AI-powered enrichment, scoring, and sequencing. `SaaS` `Freemium`
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores. `API` `Freemium`
 - [Lusha](https://www.lusha.com/) - B2B contact and company data platform with browser extension. GDPR-compliant. `SaaS` `Freemium`
 - [FullEnrich](https://www.fullenrich.com/) - Waterfall enrichment aggregating 15+ providers. "The Clay for enrichment." `SaaS` `Paid`
 - [Dropcontact](https://www.dropcontact.com/) - GDPR-compliant email finder and enrichment. No database — enriches in real-time. `SaaS` `Paid`
