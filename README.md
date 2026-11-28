@@ -124,6 +124,7 @@ Lead generation is being transformed by AI. This list covers everything from AI-
 
 *Tools specifically for finding and validating email addresses at scale.*
 
+- [FairValid](https://fairvalid.com/) - Email verification and verified B2B lead discovery, with a REST API and hosted MCP connector for user-authorized AI workflows. `API` `Freemium`
 - [Hunter.io](https://hunter.io/) - Find professional email addresses. Domain search, email finder, and bulk verification. `API` `Freemium`
 - [Snov.io](https://snov.io/) - Email finder with 7-tier verification. LinkedIn integration and drip campaigns. `SaaS` `Freemium`
 - [Findymail](https://www.findymail.com/) - Email finder with 97%+ accuracy. Specializes in finding verified B2B emails. `SaaS` `Paid`
